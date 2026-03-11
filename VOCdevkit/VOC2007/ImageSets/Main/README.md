@@ -1,1 +1,1 @@
-存放训练索引文件
+Used to store training index files
