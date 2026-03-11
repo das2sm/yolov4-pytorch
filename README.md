@@ -56,24 +56,6 @@
 * [x] **Training Tricks**: Mosaic Data Augmentation, Label Smoothing, CIOU, Cosine Annealing LR Decay
 * [x] **Activation**: Mish
 
-## Environment
-
-`torch==1.2.0`
-
-## Download
-
-Weights for training can be downloaded from Baidu Netdisk:
-
-* **Link**: [https://pan.baidu.com/s/1oXz13QwLx1lnXct538qL2Q](https://pan.baidu.com/s/1oXz13QwLx1lnXct538qL2Q)
-* **Code**: `16qc`
-* `yolo4_weights.pth`: COCO dataset weights.
-* `yolo4_voc_weights.pth`: VOC dataset weights.
-
-**VOC Dataset Download**:
-
-* **Link**: [https://pan.baidu.com/s/19Mw2u_df_nBzsC2lg20fQA](https://pan.baidu.com/s/19Mw2u_df_nBzsC2lg20fQA)
-* **Code**: `j5ge`
-
 ## Training Steps
 
 ### a. Training on VOC07+12
