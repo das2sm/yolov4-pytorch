@@ -21,7 +21,7 @@ annotation_mode     = 0
 #   it means classes was not set correctly
 #   Only effective when annotation_mode is 0 or 2
 #-------------------------------------------------------------------#
-classes_path        = 'model_data/coco_classes.txt'
+classes_path        = 'model_data/cls_classes.txt'
 #--------------------------------------------------------------------------------------------------------------------------------#
 #   trainval_percent: ratio of (train+val) to test set. Default: (train+val):test = 9:1
 #   train_percent: ratio of train to val within the (train+val) set. Default: train:val = 9:1

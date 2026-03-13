@@ -83,7 +83,7 @@ if __name__ == "__main__":
     #   classes_path    Path to the txt file in model_data listing your classes.
     #                   Must be updated to match your dataset before training.
     #---------------------------------------------------------------------#
-    classes_path    = 'model_data/coco_classes.txt'
+    classes_path    = 'model_data/cls_classes.txt'
     #---------------------------------------------------------------------#
     #   anchors_path    Path to the anchor box txt file. Generally not modified.
     #   anchors_mask    Helps the code locate the correct anchor boxes. Generally not modified.
@@ -152,7 +152,7 @@ if __name__ == "__main__":
     #------------------------------------------------------------------#
     #   label_smoothing     Label smoothing. Typically <= 0.01 (e.g., 0.01 or 0.005).
     #------------------------------------------------------------------#
-    label_smoothing     = 0
+    label_smoothing     = 0.01
 
     #----------------------------------------------------------------------------------------------------------------------------#
     #   Training has two phases: frozen and unfrozen.
@@ -210,7 +210,7 @@ if __name__ == "__main__":
     #                       (Ignored when Freeze_Train=False)
     #------------------------------------------------------------------#
     Init_Epoch          = 0
-    Freeze_Epoch        = 2  # Was 50 - changed to 2 for sanity check
+    Freeze_Epoch        = 50
     Freeze_batch_size   = 8
     #------------------------------------------------------------------#
     #   Unfrozen phase training parameters.
@@ -222,7 +222,7 @@ if __name__ == "__main__":
     #                           Adam can use a relatively smaller UnFreeze_Epoch.
     #   Unfreeze_batch_size     Batch size after unfreezing.
     #------------------------------------------------------------------#
-    UnFreeze_Epoch      = 4  # Was 300 - changed to 4 for sanity check
+    UnFreeze_Epoch      = 150
     Unfreeze_batch_size = 4
     #------------------------------------------------------------------#
     #   Freeze_Train    Whether to do frozen training first.
@@ -237,7 +237,7 @@ if __name__ == "__main__":
     #   Init_lr         Maximum learning rate.
     #   Min_lr          Minimum learning rate. Default: 1% of Init_lr.
     #------------------------------------------------------------------#
-    Init_lr             = 1e-2
+    Init_lr             = 1e-3
     Min_lr              = Init_lr * 0.01
     #------------------------------------------------------------------#
     #   optimizer_type  Optimizer to use: 'adam' or 'sgd'.
@@ -247,9 +247,9 @@ if __name__ == "__main__":
     #   weight_decay    Weight decay to prevent overfitting.
     #                   Adam can cause incorrect weight decay — set to 0 when using Adam.
     #------------------------------------------------------------------#
-    optimizer_type      = "sgd"
+    optimizer_type      = "adam"
     momentum            = 0.937
-    weight_decay        = 5e-4
+    weight_decay        = 0
     #------------------------------------------------------------------#
     #   lr_decay_type   Learning rate decay schedule: 'step' or 'cos' (cosine annealing).
     #------------------------------------------------------------------#

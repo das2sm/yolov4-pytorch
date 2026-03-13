@@ -1,12 +1,448 @@
-/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000000000471.jpg 120,112,580,324,5 211,155,227,200,0
-/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000000000623.jpg 271,72,375,311,13 273,62,373,302,56 162,1,374,492,0
-/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000000000612.jpg 117,235,543,475,59
-/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000000000597.jpg 337,167,378,191,20 383,148,452,191,20 467,149,540,193,20 196,142,271,190,20 134,154,193,189,20 89,162,124,188,20 1,154,56,188,20
-/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000000000086.jpg 152,183,281,559,0 265,294,399,404,26
-/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000000000581.jpg 104,151,261,410,16
-/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000000000247.jpg 55,186,141,221,2 514,179,549,197,2 478,175,509,198,2 544,172,552,178,2 533,171,541,178,2 503,169,519,177,2
-/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000000000590.jpg 75,295,161,306,71 72,292,165,320,45
-/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000000000138.jpg 16,102,139,348,72 315,19,384,88,74 157,184,203,203,45 260,175,379,533,69 496,203,625,256,71 560,45,604,104,58 218,54,252,102,75
-/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000000000312.jpg 2,185,229,392,20 225,193,434,374,20 322,294,403,375,20 491,176,640,375,20 469,230,513,372,20 419,249,567,372,20
-/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000000000208.jpg 1,108,640,475,71 0,150,304,260,71 157,170,349,259,79 57,122,215,204,79
-/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000000000540.jpg 172,366,182,375,2 611,309,620,320,2 162,394,177,404,2 218,329,228,339,2 87,359,109,384,7 71,404,85,413,2 94,391,106,402,2 131,372,140,381,2 121,364,131,374,2 194,368,203,377,2 311,199,316,205,2 52,191,59,198,2 218,348,229,361,2 416,203,440,214,5 329,192,340,206,7 291,182,297,186,2 452,385,466,405,5 93,392,105,402,7
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00007_00003_00016_png.rf.e834e42b95e08079227b43e7d21c3266.jpg 69,84,356,360,3
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00014_00007_00005_png.rf.a5fb97f3464f13b8369441cb2bc94083.jpg 80,91,360,361,14
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00007_00018_00020_png.rf.9eac944f41a8eff58f33a10f89e12d13.jpg 81,81,355,360,3
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/road301_png.rf.d4197530da0c42bba408805b7dbb2e86.jpg 160,176,232,231,8
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/098904b8-c355-46e6-b644-52387480db96_jpg.rf.ed1b718605fa48e5c0cfbc438da6d050.jpg 74,20,360,402,0
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000052_jpg.rf.96cdae5cb344cb850bb3441d499f37d4.jpg 261,36,368,184,7
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002188_jpg.rf.0c0627398b64450d4f392c77290207fe.jpg 226,106,374,170,1
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000843_jpg.rf.0ac5bd7a76582a1bd95d5add661857cb.jpg 80,108,317,266,13
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001684_JPG_jpg.rf.4f8c11f4930458adadf3c7e376221eee.jpg 90,54,145,79,1 50,36,86,85,9
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/road743_png.rf.09b77e4a47a21b7c3482c28b37c86ecb.jpg 88,187,124,216,3 93,141,133,172,5
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000019_jpg.rf.84ec9398551cd1995c3065bb4125823e.jpg 61,28,371,236,7
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/FisheyeCamera_1_00313_png.rf.9c69e423181d1feba7259fb882dee3ed.jpg 176,212,179,222,1 57,210,63,219,11
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00000_00002_00004_png.rf.42fa00c6a4d5575600e9de72a47bb7a4.jpg 105,95,331,328,6
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00000_00006_00008_png.rf.6e64e50bce5346d9caec663b34ee71b3.jpg 85,78,331,322,6
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/FisheyeCamera_1_00214_png.rf.951977a55f856b7f597f3fc76c6470b1.jpg 291,198,299,223,9 250,223,254,228,10 275,182,281,185,1 310,209,315,212,0
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00003_00009_00028_png.rf.24cf2818d01ca4bbd7400153653aba4c.jpg 53,56,369,366,10
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000362_jpg.rf.786ad91389e130a42ef6a403f3d4b426.jpg 120,89,292,197,10
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001992_jpg.rf.f26dcdb9fdeebc174754794fa60d5667.jpg 127,37,243,272,1
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00001_00037_00018_png.rf.fdbd3c3ecaa77be61cff73f08ee1dbba.jpg 54,75,360,369,7
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/FisheyeCamera_1_00969_png.rf.c975d3577d8591d612ebbde4ffbe7c8d.jpg 176,195,184,199,1 201,195,208,198,1
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/FisheyeCamera_1_00269_png.rf.08fcfec2b92b885525accc523c3e38a8.jpg 245,101,286,129,0
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00008_00012_00025_png.rf.4c94f0a2f88e0ea8957494fe6a716dc8.jpg 67,49,372,361,5
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00002_00025_00010_png.rf.06f562d1ab248b3132808a317bc6dad2.jpg 101,88,344,354,9
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/FisheyeCamera_1_00008_png.rf.146aeedb58a2af892486426a55b3093e.jpg 278,210,291,233,14 175,223,179,229,6
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000968_JPG_jpg.rf.1242ddd64a8a9613f3b9837645edf535.jpg 159,87,194,109,0
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000441_jpg.rf.8e0a33dcb55d388dffd3d4c02c682ec1.jpg 157,40,380,370,7
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00008_00011_00004_png.rf.8af5a7b7857f3ea8b94bfb037ebadcfa.jpg 113,104,327,333,5
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000504_jpg.rf.84750a85bb87238d8e49112d2c848b27.jpg 41,6,106,106,11
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00014_00010_00001_png.rf.68c586d3ac58ed9ad2b5b51c2702b4cf.jpg 60,52,374,378,14
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000994_JPG_jpg.rf.aa1d8f20da497d0afe54d4f457d37286.jpg 340,75,392,101,0 32,177,57,188,0
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00005_00012_00014_png.rf.aad3aece44e5f90d4b6ad1c2f6442ab5.jpg 71,77,356,355,12
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00003_00044_00010_png.rf.b90df2847b78876637e8f8802a571ae1.jpg 86,88,339,342,10
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/FisheyeCamera_1_01045_png.rf.59e9537abb4a303c20cc198cd09c31c8.jpg 141,179,153,186,0 175,180,186,186,0
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00000_00002_00029_png.rf.f584d2f610afde0abb821fe96a348203.jpg 43,43,378,386,6
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001694_JPG_jpg.rf.0848aaf83c6595accbf6b084b8a2844f.jpg 148,88,207,109,1
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000554_jpg.rf.309b4f5dd9182b6fba98f0c324cb578a.jpg 190,25,399,190,12
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/road359_png.rf.c4125f36b26194a2c30d623150bf73bf.jpg 127,210,163,240,8
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/road291_png.rf.b249f8ca59781410a5911d77edf99452.jpg 174,193,240,245,8
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000040_jpg.rf.d3a27d760312c25293ab8d4c58eed9dd.jpg 58,177,366,360,7
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001490_jpg.rf.fd8f004d7b84f0c804749846198f22f0.jpg 171,19,244,174,5
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000692_jpg.rf.2c2e212573e14266f74e98db1d670bc5.jpg 115,25,326,197,12
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00004_00034_00009_png.rf.dbc730c2a7f5badb19b9ba2f65a0c7f0.jpg 118,92,335,322,11
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000807_jpg.rf.6299c8be7c6de8d703088841c7ba64a8.jpg 323,0,404,117,11
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00001_00031_00010_png.rf.3117240f6b207aa89ea9e14bb8f93e58.jpg 105,100,339,341,7
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000837_jpg.rf.191a50ddbc2236f8b0edf5d64669662f.jpg 167,121,171,138,1 224,117,228,134,1
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/20364e84-d295-427b-a242-a6826d1fb2a3_jpg.rf.f0dbcca09ae85dec24d3acc12d67504c.jpg 71,29,326,372,1
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000247_jpg.rf.0ef07b267eadc38ebebc4c5fb953f45b.jpg 244,101,351,176,8
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/road241_png.rf.4c01d1c3dea4c729c05ee89d340c59f8.jpg 216,207,241,228,3 191,207,214,228,12
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000768_jpg.rf.d3273dadffcb2e6e258984798962e696.jpg 242,24,372,271,13
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001824_JPG_jpg.rf.09a8064e22254fcb71039d13d6734904.jpg 53,64,95,83,0 196,66,237,81,0 135,46,157,75,8
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000610_jpg.rf.e3b7ed159e76d10847dacb25f0cab54b.jpg 38,0,126,145,12
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/road708_png.rf.d9bf7da6e0e73af3295909a18a2cabee.jpg 169,146,268,222,5 168,268,271,342,3
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000707_jpg.rf.425d3bbda0d5bfb0e541cdfb6631d8a4.jpg 328,96,363,165,7
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00001_00031_00016_png.rf.c010ea28e305686ad91ebce892c0d75d.jpg 64,86,339,351,7
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00001_00042_00000_png.rf.ac8cef49708d26776dd018e63c08ee29.jpg 100,100,329,338,7
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001416_jpg.rf.6ca5b42e178fb95038450fa15efdaf2e.jpg 302,116,346,260,5
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000855_jpg.rf.89c71545016c6ceb8256e77a86a045f0.jpg 2,49,8,83,1
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00004_00061_00013_png.rf.c34fb537a9a7faeb1a32512065323deb.jpg 93,82,337,337,11
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000268_jpg.rf.6f1bc10a212e7735714926ab68c4f09b.jpg 157,169,317,272,8
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00007_00040_00021_png.rf.0e4233c8db3641adad17add95f6647f5.jpg 89,76,350,342,3
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000594_jpg.rf.946ad2497ceada9356d0db186c850b85.jpg 204,1,386,287,12
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000055_jpg.rf.a50160158fbe3a53f6f2a5675ff660fd.jpg 25,18,377,385,7
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/FisheyeCamera_1_00177_png.rf.5b153a47037cd9f980fd2e0fab7706e3.jpg 51,196,62,216,9
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00008_00004_00018_png.rf.d04b1e5cf05ad80902d307cc7e6c431d.jpg 75,70,340,361,5
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000817_jpg.rf.cf389c063e8932bb6c53e02be9bda63b.jpg 172,61,180,94,1 102,107,110,138,1 276,87,283,118,1 157,62,164,95,0 268,86,275,115,0
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/FisheyeCamera_1_00018_png.rf.020880ddd4767d0a7f0b20ac31fc1cae.jpg 154,218,161,228,6
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00004_00022_00004_png.rf.4adbcdeb114ed5134cd3f4f92db5abaf.jpg 94,99,323,328,11
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00001_00064_00023_png.rf.d473c20799e6e6ed1762375e2fba72fa.jpg 54,54,377,377,7
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00014_00007_00000_png.rf.20e7f27f987413f912a488b8c52e4b75.jpg 99,104,351,353,14
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000526_png_jpg.rf.114ddcbd9e60192946a3f375be5a21dc.jpg 26,10,302,400,11 299,10,385,133,11 316,149,403,265,11 305,277,391,401,11
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/road304_png.rf.3d52824ffdc3d7c037ac893ce147edf5.jpg 112,191,154,226,8
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000240_jpg.rf.f67fdae5c8016a60f0d895f30c699f29.jpg 274,32,379,179,8
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00014_00022_00002_png.rf.067f3be88afec79842f718b26732c307.jpg 80,73,347,357,14
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00014_00009_00017_png.rf.33575c26dd4af455ccb829e95c0c82a3.jpg 60,57,378,373,14
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/FisheyeCamera_1_00333_png.rf.3aa685ee96b92ff38d3911eba7543818.jpg 238,187,246,209,1
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00014_00021_00026_png.rf.73754c55b4fea5128d9b61295e83b44a.jpg 45,59,378,385,14
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/road558_png.rf.d3997453e5619ebaadb3263d1f3e6433.jpg 199,304,339,415,8
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/FisheyeCamera_1_00364_png.rf.a9a2ae260182758dd32759d27a3f08ae.jpg 214,222,219,229,12 75,215,79,223,13
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000332_jpg.rf.29fe035d4e434d2becfac7355df273b7.jpg 163,137,261,298,10
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/FisheyeCamera_1_00614_png.rf.741698008ec144827074961cfa6949cc.jpg 144,213,154,226,4 232,183,238,188,1
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/183bc196-1a4b-43f7-9d0b-ecce08393ffe_jpg.rf.a40f14aaa40e341ac06ac991b4a5703e.jpg 101,30,295,329,1
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00001_00038_00024_png.rf.8771f620da3c0634ac2244365d2918ef.jpg 66,68,365,370,7
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00007_00018_00018_png.rf.a180cedb6ba3c3bbc228bb03cba5379d.jpg 69,80,367,355,3
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/FisheyeCamera_1_00026_png.rf.1fd1e1fc1daa4225af3a97b7016e3689.jpg 105,204,115,223,6 187,210,189,211,0
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/10c3aecb-eaa3-4f81-a749-fd76b25be428_jpg.rf.1bc01fcfdf7ee218c81b6df45bc8ca27.jpg 23,19,403,375,0
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00002_00033_00004_png.rf.aa287dc137abb93255fa4c9d696194f6.jpg 110,110,328,337,9
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00004_00003_00014_png.rf.fbd79a43c27ae3464c7be84d785ed5e2.jpg 91,85,362,349,11
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/road828_png.rf.e1ef1cb18dab404e4baef3a47bb0e55a.jpg 160,121,248,188,12
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00001_00014_00014_png.rf.9a4c5136a6904e3875eb29735c42df2a.jpg 65,69,350,363,7
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/road680_png.rf.f3d33f76c73e14128f5a509936280778.jpg 218,128,281,180,7
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00005_00002_00011_png.rf.a35df4294b327a3b68305b30ca6576f8.jpg 101,111,353,353,12
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000662_jpg.rf.fb36809246ab7f4a219e508ffc4d2d5c.jpg 149,13,280,259,12
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00008_00006_00026_png.rf.cb433297defc6e2a91fd89685c39f39f.jpg 80,77,360,368,5
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000350_jpg.rf.fac8e37262f905f6182f18cc3024d446.jpg 31,23,117,152,10
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00000_00005_00000_png.rf.8169697531fc6883b15ae564024d3677.jpg 97,96,334,334,6
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00003_00046_00010_png.rf.09571ce224506e9317485a0a46f601e5.jpg 88,78,341,338,10
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/road286_png.rf.702db0cc9906e626d838a77a4e79244d.jpg 151,141,245,213,8
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00008_00014_00012_png.rf.a62ba5f792b061df92e0177a04931c7b.jpg 80,89,353,349,5
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/road846_png.rf.83ae399dec059726a23ccdffd427f4f0.jpg 287,231,319,292,0 120,176,155,201,12
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/FisheyeCamera_1_00078_png.rf.f8277b1e674702e41e81ff78b4871db0.jpg 143,165,150,169,0 184,207,187,209,1 148,225,151,228,7
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00003_00045_00015_png.rf.943d72c73dfcea808f25dc63a50d735d.jpg 95,82,348,353,10
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00000_00000_00011_png.rf.d273eb7959d82848c1bbf816e503a7cc.jpg 79,99,371,372,6
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00004_00036_00029_png.rf.f55502d5bebf262101364b930e187143.jpg 46,45,377,375,11
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00005_00000_00022_png.rf.857a0ac924b38da3d877d9f257b31dc2.jpg 60,66,368,374,12
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000961_JPG_jpg.rf.6bcbe860c6d7172dbb20df1d4ac1f688.jpg 262,67,318,105,0 222,221,239,230,0
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/road46_png.rf.9641c4d263ae6308a9ccf926f9bcb087.jpg 115,179,196,296,1
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001497_jpg.rf.fbdb9b196dc228a923bf34783582c227.jpg 199,4,385,400,5
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00001_00031_00012_png.rf.51847911c211fcbfe57fb26f390b07c0.jpg 94,87,344,338,7
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/road436_png.rf.ba81e672467ab021df7d81b8abe0f1b1.jpg 230,147,336,235,13
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000617_jpg.rf.44d9d485d15f3ca4025fd2317529a309.jpg 310,106,385,234,12
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/road346_png.rf.e7a7d7d0abfc215b040eeb5b599f0f9b.jpg 121,214,214,282,8
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00004_00037_00021_png.rf.8a14c3d2a414d7beee517b0f3b006b94.jpg 82,80,360,357,11
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00001_00023_00021_png.rf.a10de52934dad85b727a4edcd9171235.jpg 98,92,357,369,7
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00003_00030_00010_png.rf.50be294e286a2970ff5604af5efdd7e0.jpg 78,84,361,347,10
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/FisheyeCamera_1_00177_png.rf.5c419898b876f40e9e3808a43d49df67.jpg 50,176,69,213,4
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/road33_png.rf.8619e98dc14b8597eb5bee7fb56c9e28.jpg 40,7,284,390,1
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/FisheyeCamera_1_00453_png.rf.2e48bb3302083646527d2e645a2aaf6c.jpg 273,192,277,195,0 293,200,296,203,0 319,216,323,223,3
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/road514_png.rf.4494ccd394d453dc93170ada86fabf49.jpg 246,152,287,184,12
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00003_00036_00009_png.rf.19a4b7096fa9b8a99fdcd496842f7bce.jpg 84,99,327,335,10
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/002121_jpg.rf.772899227fd9851fc62d288ef78239b2.jpg 249,148,301,224,14
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/road253_png.rf.410763eff584d7b7adb7b68b12f2aba6.jpg 180,89,258,149,8
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/FisheyeCamera_1_00042_png.rf.4d945da43621b3b769de7c8cd1582e4e.jpg 181,204,184,206,0
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00008_00005_00013_png.rf.6b38289bfa8f041efa64249f40f3ddf9.jpg 89,57,354,337,5
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000575_jpg.rf.0d47a8c99c86f89da7b63ce5f9fcd153.jpg 190,59,402,323,12
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00001_00063_00005_png.rf.1d737bc81d752bb8b8b80332e1b75a3c.jpg 118,103,359,354,7
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00007_00036_00022_png.rf.a279bc5e70d68ee42f455ea24381b187.jpg 64,54,359,364,3
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00000_00003_00007_png.rf.b2a548760d5e86d70a07c511eeee2350.jpg 105,92,360,339,6
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/road679_png.rf.a3b2c9ec40685f75eae618a16c7b4156.jpg 192,187,243,232,7
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000931_JPG_jpg.rf.6394a453b21c03de64156c746d005e6c.jpg 175,145,207,164,0 203,237,215,245,0
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/road121_png.rf.b23c99ac552a8a110017ffe82ee441eb.jpg 163,35,392,344,8
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00004_00052_00018_png.rf.6b8ef1b86d5ded7a8fd63725e86ad012.jpg 84,92,358,353,11
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00007_00003_00018_png.rf.91fdbc1ca735e214fab5f112dc5d5835.jpg 62,57,351,353,3
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000712_jpg.rf.1b37474f829a7c6a9e949977bd126d85.jpg 185,1,250,165,13 189,230,249,408,12
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00000_00002_00014_png.rf.851465423d63cf26575590f762af5c2b.jpg 85,72,360,355,6
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000842_jpg.rf.945ce3c4727460c20e897439cc9cb36e.jpg 127,84,282,186,13
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00004_00001_00005_png.rf.66b90e723f030966a1897996ad363cb4.jpg 74,74,358,364,11
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00001_00018_00009_png.rf.bf61631e96c5157a6f3e46fb866bbab5.jpg 55,58,373,379,7
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00014_00021_00029_png.rf.fa62695eed4371cee668450761f65b1d.jpg 47,52,380,372,14
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00004_00035_00017_png.rf.6ee7b5f4dfad082d5fb02f55683f67c5.jpg 70,77,355,352,11
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000529_jpg.rf.23f0c5106702a730db8add4b029945ad.jpg 185,223,249,313,11
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/12b9e565-c8b8-4e25-8107-d61a9d1b35ef_jpg.rf.ae376d5feea38041aaadc69110e31e18.jpg 40,20,410,416,0
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00014_00004_00012_png.rf.c1a1182ffbc57148f9b5af2978833fe1.jpg 56,53,376,377,14
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/FisheyeCamera_1_00252_png.rf.ebb29b8057bb37a83e688c3bc08fe756.jpg 303,191,313,196,0
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/road407_png.rf.b755edf592d3e5c4b76bd0c064b6c06e.jpg 231,227,250,240,3
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00014_00010_00002_png.rf.17f16f11e118f43378df7dca7868eb77.jpg 47,55,372,372,14
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/road400_png.rf.03186a0125d7e8f9ccbad9322201c91a.jpg 229,209,294,257,3
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/FisheyeCamera_1_00570_png.rf.24e3474fa7244706bb3bef5353d9927a.jpg 293,212,299,225,5
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000685_jpg.rf.4d9f4cf3c7008ba20431a45431f1ad0d.jpg 36,37,278,337,12 302,25,391,131,12
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001458_jpg.rf.d872ee4dbc2ea36c3e2dae2423bb68b3.jpg 245,239,308,288,5
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000449_jpg.rf.3ce309925539a9fdd50042e9722b7c01.jpg 185,50,368,330,7
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00007_00041_00007_png.rf.281728de5200a94e5f62a38231f65e1c.jpg 100,97,340,343,3
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/FisheyeCamera_1_01011_png.rf.7ec967ffbe6da0f423a03b7405d8f133.jpg 221,212,225,214,0 233,212,238,214,0
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00002_00003_00013_png.rf.d2af12ccb82c4d5435036ca72f674390.jpg 67,50,381,372,9
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00008_00038_00010_png.rf.4c9c38b445211d75ca18a1e49d3f7c7b.jpg 87,74,356,356,5
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/road519_png.rf.aa9e93bebe13bca1fd49aa4b08f47354.jpg 224,181,261,210,12
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001280_jpg.rf.fe5e870377d5a46d738b7cc74cef047e.jpg 277,153,330,237,4
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000424_jpg.rf.79bece8e750129af99bca5825d4709aa.jpg 31,0,119,363,7 323,49,386,251,6
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00008_00045_00006_png.rf.04585cc625839dc38c94a4357ec9d19c.jpg 96,80,337,342,5
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/road466_png.rf.d57ae6325b53f1b11ebb16fbfefd48e0.jpg 99,254,167,408,0 96,59,210,146,12
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/road414_png.rf.6a783d66f686106e13a6357e95b0a67f.jpg 233,231,295,276,3
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000111_jpg.rf.e60c5cd270ea82c644bdfc2ee629daef.jpg 193,1,404,168,9
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00001_00011_00007_png.rf.5a1e3a0bff0fdeddae8d3884cc1d0a55.jpg 75,92,348,348,7
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000964_jpg.rf.1f5851d70989062f1a8212cd8c5cba98.jpg 25,315,35,359,0 229,305,240,352,0 274,362,288,386,9
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00000_00003_00028_png.rf.0be3aff7a8d535bb23aed121db9871f4.jpg 56,49,365,370,6
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000876_JPG_jpg.rf.c9f37f6546c90ebcc7d1c18d1b045f0f.jpg 80,164,103,176,0 247,95,283,117,0
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/FisheyeCamera_1_00578_png.rf.f0f18b8ec46a1f3103c95125905f39e4.jpg 373,185,388,211,5
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/FisheyeCamera_1_00226_png.rf.1209592ab5fd4cd7f799fe858e18852c.jpg 186,217,193,228,10 217,166,226,171,1 183,169,192,176,1 245,210,250,215,0
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/FisheyeCamera_1_00332_png.rf.1a31b5e6456b594771c0a0487c3841ac.jpg 233,190,240,210,1
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000130_jpg.rf.21da097324e3450bb8ab634399961e84.jpg 151,120,258,188,9
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001685_JPG_jpg.rf.91a346061ab17e42bdb4292b2062d26e.jpg 122,51,174,125,9 177,81,252,115,1
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00008_00007_00011_png.rf.2e4358c87a12ba412e16d25fc1ab4684.jpg 117,87,352,330,5
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00003_00007_00013_png.rf.6af48ebb5923a1656b2c2a8c4468ab28.jpg 89,83,344,342,10
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001441_jpg.rf.b92c6a4b7b095f2fd07633f52f1c0677.jpg 290,47,349,164,5
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00002_00027_00009_png.rf.259f6d76686eb95f2e50519ed71f7f49.jpg 113,103,346,357,9
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00014_00023_00022_png.rf.242bda0d2e2dd27474a236cca6524003.jpg 57,58,380,375,14
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/026e3566-6f8a-41be-9f41-dd877d8dce46_jpg.rf.9c6822930200d0d4e039347c04da26b1.jpg 64,33,334,375,1
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/FisheyeCamera_1_00152_png.rf.e14608c239e866332b6f904803889eae.jpg 190,212,193,214,1 200,212,202,214,1 240,224,244,229,9 269,218,274,227,9
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00000_00003_00015_png.rf.a18e8c7a509b0f5f98fe6221bac9aee4.jpg 72,77,362,369,6
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00005_00005_00021_png.rf.51ba812ddc4274b6bcc67a6dc5f8701c.jpg 93,90,368,357,12
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001266_jpg.rf.dfafca814860637292f6b6188e033d97.jpg 275,87,379,167,4
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000195_jpg.rf.43a241df1cbf0a1af2f579634c144f71.jpg 47,0,368,343,9
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000188_jpg.rf.54284ffa354b84d3057d71ff9e6a3acb.jpg 76,114,358,303,9
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000993_JPG_jpg.rf.eb6970c7ae88336a7693bb0bbad27552.jpg 320,87,362,106,0 57,172,80,183,0
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000241_jpg.rf.ee9ee3a9130525ad3a28d79d58fb8806.jpg 216,93,326,247,8
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00005_00015_00010_png.rf.4b1f0e7dbd68965ce32c7e7057b69dde.jpg 103,76,353,345,12
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/FisheyeCamera_1_01106_png.rf.c9c2874040c5752a62e2ff7c12d85c72.jpg 359,177,365,199,1
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/road597_png.rf.c08d69a46eacbbc07c1017b71800a485.jpg 135,133,198,181,12
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00008_00044_00012_png.rf.9f6014b383cca09283334864ff8ea1d1.jpg 86,96,356,358,5
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/FisheyeCamera_1_00366_png.rf.3ba881f0026ee6e6f7a19dbf5c3b3c76.jpg 71,215,75,221,13 220,220,226,229,12
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00004_00034_00008_png.rf.261a1ad1884348e4860a378131d578d1.jpg 106,88,337,325,11
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00008_00003_00011_png.rf.98ba6b955dac1bf08dc41a2a8b06418c.jpg 98,96,338,344,5
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/FisheyeCamera_1_00151_png.rf.40918314c73188f052996f97a35f506b.jpg 240,225,243,230,9 266,219,271,227,9
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/FisheyeCamera_1_00620_png.rf.f61c8599984ebd5b2efefc03f70b5e8a.jpg 66,192,80,218,4 220,174,227,179,1
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001932_jpg.rf.f95f93ed2ccdb435f82c0f5d39d55701.jpg 300,64,332,169,0
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/FisheyeCamera_1_00231_png.rf.12646ed2f7da656423adac8360df60d9.jpg 117,207,127,224,10 176,150,185,155,1 134,154,143,159,1 205,211,210,214,0
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001480_jpg.rf.a3110ec0d2919377ced26f8534b526be.jpg 303,18,386,122,5 34,54,268,340,5
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00007_00005_00007_png.rf.9176be138b0fa747d9dfef41b7359c5c.jpg 109,75,360,330,3
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00001_00010_00005_png.rf.dc89b7b15d4d7b263af681cb0b226aab.jpg 103,99,342,333,7
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000533_jpg.rf.1c8061cbaeff84d86009db86e0e80b61.jpg 307,158,364,227,11
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/FisheyeCamera_1_00124_png.rf.8bb3e7687772d5ed0b2087edf02de294.jpg 141,210,152,226,12
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/9c98e136-f7aa-479c-8578-a800a57c2d47_jpg.rf.d4b8ae1bd91d6ff8d72f840c081bc990.jpg 50,30,373,389,1
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00004_00039_00027_png.rf.d056c6005e1f00bcde08368cb93e8db8.jpg 51,49,370,371,11
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00004_00050_00010_png.rf.7b5f0414132ca6651652422c049a7f96.jpg 121,92,345,335,11
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/road174_png.rf.548565b35058220eeaa319e0db9cec92.jpg 216,84,276,135,8
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00003_00044_00016_png.rf.f39f9c7b69886756e85083d66caaa11c.jpg 79,87,348,361,10
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/road477_png.rf.b3dcbe95b1b79d4a3802c6dd5c240430.jpg 113,153,203,221,12
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000438_jpg.rf.ee12378f07cf3d58984006e139fa7278.jpg 68,47,356,255,7
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000970_jpg.rf.5ec919fb6d9aa56484d7295dc541b41f.jpg 172,53,178,91,0 232,49,238,83,0
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/08724eba-901b-4e19-883d-1cc236532391_jpg.rf.58818e500202bb38a13268b4cd2c4f4a.jpg 135,69,359,387,0
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00003_00034_00007_png.rf.985cc2a26aaca59321b5e8a8eddea3f1.jpg 87,86,340,347,10
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/FisheyeCamera_1_00067_png.rf.d467b75fc7ecb18e096d25f566d73ef3.jpg 163,185,167,187,0
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00003_00006_00022_png.rf.256efc029550f2940ca77830d7aa592a.jpg 53,46,356,371,10
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/FisheyeCamera_1_00336_png.rf.eb5aea9ab930ea9f3e87a30efc02e359.jpg 260,171,271,203,1
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000194_jpg.rf.857bd810aadf90b93ab077277df5e023.jpg 24,128,209,341,9
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000257_jpg.rf.6f63b8fd63b0d875247ba0e3d776bd4f.jpg 19,34,199,144,8
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001025_png_jpg.rf.26e6f9df12a96a792c1de11125a6022a.jpg 127,77,291,247,3
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00008_00007_00009_png.rf.8289199643586993b107ff888e950eab.jpg 129,93,363,338,5
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00004_00036_00028_png.rf.bc6c2c7f1ca37e3147d0e084a748c55d.jpg 42,45,375,381,11
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/road721_png.rf.e462aad36674c5acf4bbcdd45203bb7b.jpg 160,197,205,234,8
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00003_00036_00006_png.rf.ded0e14a7c96e900c8f57daf575f68ba.jpg 95,116,323,324,10
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000628_jpg.rf.280ea523a4928476c3868bd4c9f319ac.jpg 237,108,292,207,12
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/road532_png.rf.9bdb80d6a57e01f720029a04c86595cb.jpg 240,223,306,278,8
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/road738_png.rf.b77223254f74927b15efc4a6c0235d1b.jpg 169,114,218,154,5 170,176,216,211,3
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00008_00012_00015_png.rf.10d59dd6e0409c272fbeac276a01daec.jpg 75,63,355,346,5
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/FisheyeCamera_1_00376_png.rf.32e046ea9ad33944b8fb30e9c202c08c.jpg 281,207,292,223,12 43,209,48,218,13
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001404_jpg.rf.0973ede0fcd57776627e8b1475bc1e75.jpg 282,24,367,218,5
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00002_00015_00018_png.rf.fa0e60819858633544f0279c3f7f43e3.jpg 79,74,367,373,9
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00014_00021_00024_png.rf.deb029466af8248c2939443842eb5f65.jpg 33,48,377,377,14
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/road772_png.rf.33d925aad478fcc21603de8dadfb2291.jpg 188,193,213,211,9
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000947_JPG_jpg.rf.84e4a3f41e37543598580c71b943e688.jpg 120,56,162,80,0
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000192_jpg.rf.0fc917837e43f9fd3111e7debb07d536.jpg 93,41,159,139,9
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00007_00045_00021_png.rf.927048e7238623c810968cd9b5d5ebae.jpg 59,60,370,372,3
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00001_00065_00002_png.rf.cb4cd3fac5c2cea3f7e987b4b77f4fb5.jpg 105,102,342,343,7
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001057_jpg.rf.0d8f858b7a9c12830691348e2ae306af.jpg 68,62,270,179,3
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00000_00001_00016_png.rf.bcc59e0f7b82cb846e18f8c2483e200f.jpg 82,82,352,354,6
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00004_00033_00005_png.rf.85752332290e130b0c7f08047e59e34c.jpg 109,114,344,345,11
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00005_00019_00008_png.rf.9f22b76202caf167e7006fd84b0d02fe.jpg 87,75,351,339,12
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00008_00010_00015_png.rf.f4a082367668bbe31905c10ddf009dc8.jpg 88,86,355,349,5
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000764_jpg.rf.3918e18f1de6b6420ff74f50f3ce10cc.jpg 279,104,318,164,13
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/FisheyeCamera_1_00456_png.rf.3aaef1ecc3d40d6a2513698b42395ed5.jpg 356,209,360,219,3 297,188,301,191,0
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00002_00015_00029_png.rf.be154f1e8fe0ec11284c27758049b7ad.jpg 51,67,402,367,9
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000442_jpg.rf.ba8db02296c62251a90ee66d598f1594.jpg 72,29,354,207,7
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/FisheyeCamera_1_00005_png.rf.2c3a5ef517c817ce7872439ac76a7c08.jpg 179,224,183,229,6 261,215,274,233,14
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00014_00024_00017_png.rf.74f39a6978ef95a4966512d40b68f6bf.jpg 59,73,353,350,14
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000212_jpg.rf.5ad320ca50fa0eed2b47cd161dd58a10.jpg 160,75,290,160,8
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001822_JPG_jpg.rf.10b1076c4e4871955bdffe6a66bb0963.jpg 137,48,179,66,0
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000143_jpg.rf.6140e35cc2a030831f3b3fe726088d9a.jpg 41,1,160,199,9
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000520_jpg.rf.6f0a4003fe39cb3f49af95be8b3e4955.jpg 120,44,265,207,11
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/FisheyeCamera_1_01083_png.rf.657e8c0f2e166a4b09b5d8b0b83ecb21.jpg 329,203,333,214,1
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00014_00001_00023_png.rf.632cea9b5e8d0d8390af38e41d42c5d5.jpg 43,49,374,381,14
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00000_00000_00029_png.rf.31a6cf4db89ed5e32a8ba63377ca6a3d.jpg 35,35,390,383,6
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/road521_png.rf.0e6f2e0360d380b4cc1593514d9c82e3.jpg 246,155,315,207,12
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00000_00003_00019_png.rf.d5f22619ed92e72b6d2ed7150b2db7c3.jpg 63,63,368,367,6
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/road871_png.rf.d87cacdef230a54431b9317d9c239ab7.jpg 171,200,209,230,8
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00004_00047_00023_png.rf.b8ca033b3eb4b38bdee942c6dc21689d.jpg 43,52,369,382,11
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/road28_png.rf.d0de3563c76ae8b60ecdaf41757d472b.jpg 180,7,195,60,1
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/FisheyeCamera_1_01094_png.rf.621bad78546f2f25f721937ec42b19dd.jpg 315,198,321,213,1
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001679_JPG_jpg.rf.8754624404325b942a1fb675d7cfa083.jpg 130,15,221,55,1
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00014_00008_00010_png.rf.eaf26fb45c806ade178b403b585eeb40.jpg 68,57,368,360,14
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000395_jpg.rf.5bd05de287286fc58cf1937fcf15b439.jpg 187,79,370,299,10
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00004_00047_00024_png.rf.0a240e434fb0524248fcaca1a6d7f1df.jpg 49,47,368,363,11
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/a565bef8-8fd6-4762-991e-1d4721043f96_jpg.rf.73cd992d54a6a7a1552024aabbdba3a0.jpg 88,26,364,386,0
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/road444_png.rf.745b29643bef0ad541e091d9f244302e.jpg 203,125,264,173,13
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/FisheyeCamera_1_00143_png.rf.956f2724a5ab97ff9526ba4529daf516.jpg 248,222,252,229,9
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000661_jpg.rf.883d895f9dab5e9c4d081aba15c224e9.jpg 55,127,160,323,12
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00003_00046_00018_png.rf.6f98e2e788e2785bd3abd2f9c3970c7d.jpg 77,77,351,365,10
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00004_00038_00012_png.rf.5189445d51916c5b86cb2d140ba10c90.jpg 98,105,318,328,11
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000043_jpg.rf.32d24455965176129e328b8ad5dfd9b3.jpg 32,16,200,282,7
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000880_jpg.rf.c8e48c171bd4fe67895c9f81b277021c.jpg 85,84,96,126,0 297,81,309,124,0
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/road756_png.rf.944db1c9289ade69c36a15d1637105f6.jpg 121,231,155,258,3
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00014_00021_00027_png.rf.3f9484fbc656764f730282bdfbf8fed1.jpg 36,55,376,376,14
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000539_jpg.rf.0e291b408f72396829b3ec4ceb821fc8.jpg 214,80,305,188,11
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/FisheyeCamera_1_00376_png.rf.25f59e21d9768d0d4978e2682375c134.jpg 282,206,293,224,12 43,207,48,218,13
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000979_JPG_jpg.rf.a6ad30a7171f547d3be0c6b22361a705.jpg 163,81,212,108,0 245,229,260,237,1 173,237,186,244,1
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00007_00026_00016_png.rf.f5e13ff88c9ff016f2b0fbbe16cde5a8.jpg 89,98,342,352,3
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00004_00033_00010_png.rf.14385a92db94d8047c5e785efeaf8426.jpg 84,82,343,334,11
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00014_00008_00008_png.rf.f6c3a32d79651881349d3bc1b595552a.jpg 84,69,344,369,14
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000978_JPG_jpg.rf.6833bfea619b632020ad5a6dff45823d.jpg 29,23,99,51,0
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/road805_png.rf.c7c98ae5c73f8053abdbeb4209931614.jpg 224,144,307,205,3
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/road730_png.rf.b6fa8c5a4681f8f78bc51e5b534f4a49.jpg 194,157,245,195,5 196,215,245,251,3
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001477_jpg.rf.170667884b322b9985bcd6a054a0d6be.jpg 112,25,312,382,5
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000308_jpg.rf.0e74ce39c20d070ec930778296bc962c.jpg 55,81,179,258,10
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/road372_png.rf.5a53da1c7216669c8f444d28bd9e5cb2.jpg 122,174,211,239,8
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000017_jpg.rf.ff6f0f469c80ff725af7fea54738259e.jpg 68,49,170,120,7
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/road72_png.rf.175dec4085120f452e4f6955c441b603.jpg 281,264,416,416,14
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/FisheyeCamera_1_00070_png.rf.adb22e8e34e5a308c5f4d6269ba22000.jpg 165,205,181,225,9
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000746_jpg.rf.f8aeda5143c1ab7c7567100339a5d702.jpg 330,71,392,183,13
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000936_jpg.rf.66c50dea6603f9ecc83f8b79c88a2f54.jpg 243,384,251,412,1 260,381,267,412,1
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000515_jpg.rf.8ac7e6fd639a802a16f11ddedf586393.jpg 22,91,225,374,11
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00003_00035_00005_png.rf.237d6b8f4fd249c2f63290bf2f8376ff.jpg 100,106,345,331,10
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000917_JPG_jpg.rf.dfaf54f2702b728e0dc642fb40f30f4c.jpg 182,104,279,136,0
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/road340_png.rf.a2b9156abc5137a8174ddd5aea55c886.jpg 135,291,220,358,8
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000077_jpg.rf.1dbe793ce7a4f3b3e47d33db2311058a.jpg 78,10,360,182,7
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00008_00038_00008_png.rf.2a7a8fd66cf9b684e26801ef89447731.jpg 78,93,351,350,5
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/road791_png.rf.ad075bb954ba752c89bc0a9d04ebb142.jpg 171,207,213,239,13
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00000_00001_00006_png.rf.4afd9a3e60a767668f99bb5255075956.jpg 86,104,347,347,6
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001406_jpg.rf.a9ae8c20920da9e869ae238dbcc0e858.jpg 220,34,302,264,5
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/FisheyeCamera_1_00100_png.rf.c3cc13f696f796a8c21626c048faa368.jpg 163,217,171,228,11
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000237_jpg.rf.f6a946e6c17afb5e60bdd29d444b698c.jpg 130,162,301,247,8
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00008_00015_00020_png.rf.51f2d3d76b7c01fa905c2c437521defa.jpg 107,89,375,373,5
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000035_jpg.rf.75728095104adfcb825f6fab1cdabf35.jpg 259,70,381,252,7
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/FisheyeCamera_1_00154_png.rf.504f533d229ff9724d527fb5710418e3.jpg 277,216,283,226,9 243,223,247,229,9
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000925_JPG_jpg.rf.9c325aa0ee5d101bf3e8d7af0e588b7b.jpg 186,72,248,96,0
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000726_jpg.rf.016fb46d52d9eaa0c12d94d4a1164c5e.jpg 290,37,318,86,7
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00014_00011_00013_png.rf.5c38fd5ec4ddf261665eb299b209c6cd.jpg 65,59,354,351,14
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00000_00002_00017_png.rf.b95d78da1267944d501b522c399e69a9.jpg 74,65,359,362,6
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000104_jpg.rf.84bfd7deb7e3d5f06dc8284e8c40b521.jpg 115,5,280,226,9
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00001_00004_00026_png.rf.a6ed88a1c0a4fdfcb67a7c4e9672d471.jpg 64,63,377,372,7
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00008_00012_00022_png.rf.a76810c64a1c1a3def5cc808bb562890.jpg 70,65,359,358,5
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00005_00013_00028_png.rf.de9a81a6a4c6ca3dfa4b8f5278966b69.jpg 54,52,367,370,12
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/FisheyeCamera_1_01090_png.rf.663e34306a969d1e2d3f1ca290e1ddd7.jpg 311,201,316,215,1
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001680_JPG_jpg.rf.9770ac72b1dbb08fb87045f23e413d7f.jpg 247,36,338,81,1
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/FisheyeCamera_1_00109_png.rf.9a4209543fe8c3edfa81ae08f7475048.jpg 89,191,106,220,11
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/road699_png.rf.57a9d633d7859051a3e8525f4824a9a0.jpg 183,161,244,210,5 182,241,244,285,3
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000919_JPG_jpg.rf.a9cf1e3930264edaf86475b1357a3a26.jpg 192,62,288,94,0
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000562_jpg.rf.6cd151c7883b7ba87a62747641885dc7.jpg 222,44,411,355,12
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00014_00002_00023_png.rf.4def4c07967a468c02df025dcc5104b6.jpg 54,52,385,373,14
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000619_jpg.rf.6c4fcc050f3625f9521df9402f64e0aa.jpg 173,190,235,276,12
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00003_00045_00021_png.rf.b46fc5ddef20eb8480d9b4137a64f519.jpg 73,72,362,362,10
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00008_00022_00013_png.rf.e96f62b6decd362dd6b3cfa498b87add.jpg 77,65,329,333,5
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000885_JPG_jpg.rf.a5ae245deedd2d943ac87c052b29908d.jpg 73,67,122,92,0
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000568_jpg.rf.823ccf12fc7b5f46135ba16984d01cd2.jpg 52,76,132,209,12
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00007_00002_00010_png.rf.6bd1b235ba10c26b9d230049c1387430.jpg 67,75,373,357,3
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00000_00006_00019_png.rf.091099bbce488ddcbec8f64fd092771f.jpg 51,74,373,381,6
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/road516_png.rf.d591e42c3fd7b88bdbadbeeeb0e50524.jpg 113,136,226,220,12
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00001_00005_00021_png.rf.7acd8d953f90764755d1b20945cdb0b9.jpg 76,64,388,376,7
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000911_jpg.rf.7e84c1caef4e0ee3e27a939ebd052743.jpg 78,23,88,64,1 225,16,236,57,1
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00008_00038_00018_png.rf.f3b43669e52b97b0728e81be1970cbcc.jpg 78,72,357,352,5
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000950_JPG_jpg.rf.9e1abf1c71b0cdaefd776fbbf51c1aa9.jpg 40,82,249,159,0
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00014_00023_00009_png.rf.c63b291f417d04eb73b258e9ed05df14.jpg 85,70,361,360,14
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00001_00065_00018_png.rf.f6b54c122244b905241f75d8cab2dbf1.jpg 54,68,365,364,7
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00014_00000_00000_png.rf.47478fea4d91b2043525566061f32baa.jpg 73,68,345,357,14
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001656_JPG_jpg.rf.193bed9f1b03b8c4d46254c930216604.jpg 144,47,259,99,1
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001042_jpg.rf.545beff2bbe5abec5feb037ea45529f6.jpg 137,22,148,70,1 289,51,298,88,1
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00004_00039_00028_png.rf.b088fe4f42e92367b13ca2fe401844ac.jpg 55,46,375,363,11
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/road101_png.rf.a3ce87afd30d91cee52ad0ed27e696b4.jpg 213,13,405,395,8
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00003_00045_00019_png.rf.3120c19400c889f8dfd507e2f6f16995.jpg 73,71,350,354,10
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001642_JPG_jpg.rf.1501f63859c8183e7b273ed3f677bb80.jpg 133,18,216,68,1
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/FisheyeCamera_1_00234_png.rf.bc02f13c5c374934d9648cd70eae24b1.jpg 129,141,139,149,1 175,134,187,143,1 86,197,97,219,10 208,209,218,214,0
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/FisheyeCamera_1_00198_png.rf.773e24d037635ddfef8e56bdc92dab9c.jpg 167,198,171,201,1 152,200,155,202,1 149,225,151,228,10
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/FisheyeCamera_1_01102_png.rf.319a9b0d00d87664f3c6e033292d5366.jpg 348,184,355,203,1
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00004_00030_00008_png.rf.ad797638ad917ff02299b309df0e031e.jpg 99,84,351,335,11
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000346_jpg.rf.1e9a35a10b9bb547d27a92c99256547c.jpg 131,38,361,390,10
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00004_00015_00008_png.rf.53e1b4628bece4cc3ec12ec3ca38a287.jpg 115,99,337,326,11
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/road96_png.rf.48d681480f439cba3688ab06e5e51fe7.jpg 221,90,335,272,14
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00014_00002_00027_png.rf.6adc795f986a59944a3555bca3a3d8f6.jpg 55,50,376,379,14
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000874_jpg.rf.639a1f2f944cbb91251c969edd9850e0.jpg 160,131,165,147,0 182,130,188,145,0
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00003_00010_00006_png.rf.7297d07668cfbb2bff8835c5150c87d9.jpg 107,105,323,324,10
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000050_jpg.rf.0013e34acde22bcaba804f1ead110ee2.jpg 66,53,380,247,7
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00002_00004_00027_png.rf.7810d0a91d17cf7c416ecf32c000fe94.jpg 38,47,388,376,9
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/road93_png.rf.50d265b5be3e2bbc130145487141e9cf.jpg 192,42,365,300,14
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001690_JPG_jpg.rf.57de7aa5c2b4c9729502c9c760062a2b.jpg 122,42,169,63,1
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/071a0640-def2-4c10-b393-82036dc09483_jpg.rf.9fcdd46749ee34fe0df36d55595e3e18.jpg 88,42,344,390,1
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000322_jpg.rf.ea161b37ac59a6256ffa8b3c0f4f3848.jpg 56,54,129,156,10
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000124_jpg.rf.b2d7fb70bd6a2afef4d709188bd1d410.jpg 179,20,376,267,9
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/FisheyeCamera_1_00041_png.rf.402d963ad90df5846463e66a301debd3.jpg 182,204,185,207,0
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00003_00036_00014_png.rf.c38ca32c8fd449204818a39b58e5f954.jpg 79,89,344,352,10
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/FisheyeCamera_1_00217_png.rf.52a2654765cd7c1fa0628228c93f63c6.jpg 368,168,387,210,9 277,220,281,227,10 301,174,307,178,1
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/road360_png.rf.4aa02f52eadc1077bb28a6554193966f.jpg 103,191,165,240,7
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000075_jpg.rf.0e1ccee9ff9e03910cf3b1147527d382.jpg 140,95,315,311,7
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/FisheyeCamera_1_00234_png.rf.a4770a668ef53dd3ecefd90b9c5d54ef.jpg 228,138,256,157,1
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000356_jpg.rf.048f6c786bcdf372e398573809903145.jpg 185,40,225,108,10 149,26,173,135,0 126,89,149,164,0
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000748_jpg.rf.fb970b7f0d8c7e026ec4f36f5e855a00.jpg 179,27,363,157,13
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00004_00010_00020_png.rf.8985cbdd62ef877bd3b91429c517b515.jpg 75,71,365,349,11
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000227_jpg.rf.740b5b8a5b19a6f910fdf1f838954fee.jpg 112,87,299,342,8
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000621_jpg.rf.49a2e8c20b07a14cc22a8edd393e6384.jpg 240,54,346,216,12
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/12587eff-7324-4505-9e8a-1b394a78263a_jpg.rf.2f82b1ef8c809ff3daeac1b90cea1ce8.jpg 73,48,334,388,0
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/road362_png.rf.765355e68b8097399c60024a6f28840c.jpg 115,169,211,243,8
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00001_00021_00006_png.rf.c24e2e36491660b540a9b81687c16bc3.jpg 97,104,333,355,7
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001272_jpg.rf.debdfb258e32db7b758bdee30191873c.jpg 39,104,154,303,4
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00000_00002_00013_png.rf.9aeaea7d89bf1f404b6c9adc824155c0.jpg 99,86,363,355,6
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/road710_png.rf.2ad28439dfd9f4eb4f972f908cb5c481.jpg 186,139,228,172,5 185,191,227,222,3
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000437_png_jpg.rf.5be9f4fe4b3f2ebc8ed2954d09d791bf.jpg 27,10,292,400,7 300,8,381,130,7 318,140,401,262,7 300,274,382,394,7
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000840_jpg.rf.f5963d4af1e481844d7e0cb4fc659269.jpg 305,163,344,226,11 235,208,260,244,9 186,224,201,248,7
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000100_jpg.rf.8948ed8c132dae637b8dde18d0c5be7b.jpg 266,50,333,137,9
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00003_00045_00025_png.rf.55bc7f4d3767148ae2ffe45acfff47fd.jpg 65,62,351,368,10
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/FisheyeCamera_1_00471_png.rf.eb0a04fb4ec3ae41bf4b96e27bd5d26d.jpg 135,172,147,208,0 209,172,223,209,0
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/road632_png.rf.55f34ebf1d4af9356ffb0076315965bb.jpg 136,173,183,211,14
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001661_JPG_jpg.rf.acfefa9cfeb4287dc5b00f2759a29eb7.jpg 163,84,258,139,1
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/road496_png.rf.0ba2b54d3c1fd2881ecb76508934a96a.jpg 69,172,102,209,12
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00008_00012_00000_png.rf.9faeda3aca8d35dd95a55fb0f64f3d71.jpg 99,91,344,322,5
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001071_jpg.rf.8537213520ca6d601b1ce7562801bf53.jpg 79,7,91,51,1 228,3,239,51,1
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/road399_png.rf.5d0f9325dbd3cff3f69d0a07b7db9ee4.jpg 131,180,187,221,3
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00014_00002_00008_png.rf.b5591234d317fc4e122c6594039268f9.jpg 76,100,345,370,14
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00005_00014_00017_png.rf.ed92831e745be7167ec08c3f6d416b7d.jpg 73,63,355,350,12
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001924_jpg.rf.6438079969b065b6fb426a1fcceb62e5.jpg 116,8,234,218,1
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00001_00020_00001_png.rf.558285df18ab5e029ed28ae9b0442173.jpg 74,67,312,381,7
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00000_00000_00000_png.rf.eb9b5799307ebcf07dd4c95eac0e6d13.jpg 98,119,329,329,6
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00004_00030_00000_png.rf.b2ef1ed553fd89739bdf18933fe1d6c2.jpg 116,110,334,317,11
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000963_JPG_jpg.rf.d070485dd75af260a4d7cbc60f80a0b8.jpg 133,34,176,58,0
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/road295_png.rf.52621062f25340a06ba13ad33652161b.jpg 174,120,198,138,8
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000412_jpg.rf.4201db338b39b5c120994db37fbf058f.jpg 160,39,371,308,7
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001065_jpg.rf.07c50b5f8a4d2c6117b6f2df2e1930e1.jpg 115,88,122,115,1 232,84,239,112,1
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000261_jpg.rf.7c97ab6d968e742c9cc124edd2630e3c.jpg 117,44,296,164,8
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001949_jpg.rf.68d541ba0f9852da65302442620d3088.jpg 93,7,238,194,1
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/FisheyeCamera_1_00226_png.rf.7d72b3baff7cf67a16920de5566fc362.jpg 186,218,193,227,10 218,166,226,171,1 184,170,193,175,1 244,212,250,214,0
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/road285_png.rf.92ce02671c606ed8e1234bfdc886e455.jpg 165,139,219,182,8
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000847_jpg.rf.03565b184d58e18681195a3f3189ee6c.jpg 22,163,99,274,13
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00002_00004_00026_png.rf.e08350cc250857c28ec1d619fb871d07.jpg 44,44,388,370,9
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00000_00006_00003_png.rf.81331f00fcfaf6da5ae24e98449d210c.jpg 83,94,304,346,6
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00004_00030_00009_png.rf.af668650884aa4b24cd2394777e30d12.jpg 97,90,345,330,11
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/FisheyeCamera_1_00050_png.rf.5cec93ca46bdcedf11bb56511c8b1c70.jpg 177,200,181,202,0
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000109_jpg.rf.dc15d815b99240965e6ead9c0b02762d.jpg 148,81,356,205,9
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/road602_png.rf.318d3ef4a1ae690772af4c7a45056e3d.jpg 122,204,164,234,12
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/road176_png.rf.bbb9ca924014ecf54c43d0813e953a37.jpg 53,96,121,257,0
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00014_00008_00015_png.rf.7deb3d52b8955c9f16bc4630ca2b3a09.jpg 74,69,359,352,14
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/24085f02-5dde-4b59-ad8e-887935bd08e1_jpg.rf.d216c61af0d1adf927b98f242a4fe85f.jpg 65,7,298,397,0
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001819_JPG_jpg.rf.19373a081a4ca0d9c8ee2e7978c863a0.jpg 112,97,159,117,0 233,199,249,208,0
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/road620_png.rf.a7ba58ea1d4cbea3603588d021ac7a02.jpg 173,232,209,260,9
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00004_00004_00018_png.rf.425ae8fe898b851cde920641405fdd03.jpg 52,60,359,373,11
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000595_jpg.rf.5b549a5e1f209899e21445383698e00d.jpg 207,164,377,412,12
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00014_00021_00004_png.rf.7ac427500876f6f277d82d3df616bb48.jpg 117,68,369,326,14
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00004_00036_00009_png.rf.5b89de181623395f4fb699b2a285c045.jpg 93,87,353,349,11
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000357_jpg.rf.66650277a1c8fd05294bc46c9a10788b.jpg 37,87,179,261,10
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/FisheyeCamera_1_00169_png.rf.65d4cfef45b9234e216a9d9e6928638f.jpg 344,174,364,213,9 144,217,152,226,9
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/FisheyeCamera_1_00210_png.rf.4d971213ecb5e0c4b1fd2e884c67d93f.jpg 227,42,248,58,0 312,76,326,91,0
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00000_00001_00025_png.rf.281f2e0ec1afff9409e3e9437443ea67.jpg 53,54,364,368,6
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00002_00016_00015_png.rf.cb4a276de420b8d44af77cc530106224.jpg 68,76,363,375,9
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000790_jpg.rf.b9a0c90ea27e9a8922732899cf5e2121.jpg 95,26,106,72,0 243,24,254,70,0
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/road857_png.rf.cd3c67bf1eb63604c035797e41bb06ea.jpg 160,124,245,186,12
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/road651_png.rf.fb0f0d489279ffa4abfc8434e3a52b64.jpg 247,115,309,163,9
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00001_00066_00005_png.rf.b88a1804a44f6e513c39d3119d72baee.jpg 97,78,372,353,7
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/road417_png.rf.428828f15a399bcd8ce3e9c87318aa02.jpg 176,184,223,222,13
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/FisheyeCamera_1_00356_png.rf.1f186cfc695b9ffde8435b5ab109d133.jpg 194,224,198,229,12 86,218,89,224,13
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00008_00011_00013_png.rf.c842a02cc7f62236d5b23face70fb396.jpg 92,86,348,350,5
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00002_00018_00000_png.rf.608f86a34161113cb45149b33031cb4f.jpg 114,109,323,334,9
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001647_JPG_jpg.rf.8d021157869271616357a65644f29328.jpg 75,33,135,57,1
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000882_JPG_jpg.rf.746ba87faab6f1499c836a3f125ca60a.jpg 79,104,111,124,0
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/001045_jpg.rf.8cb71c7ac87a8c32410e7a2aa6c63379.jpg 249,106,281,148,3
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/FisheyeCamera_1_00095_png.rf.12d33155105d77d52b3e5d6deb5c2bff.jpg 110,220,114,225,7 177,199,181,201,1
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/FisheyeCamera_1_00234_png.rf.ccbb73d7c5d63030d055b4e300c25537.jpg 86,196,98,221,0
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000483_jpg.rf.d67df6e245f66c4a6fdb2dce4e647b93.jpg 186,192,255,290,11
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00014_00000_00025_png.rf.5ea9f6625a899eefe4cee038c8e81e4d.jpg 48,37,387,378,14
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000228_jpg.rf.d723e01ac79ba2d811f53b37be0b1e46.jpg 154,86,344,342,8
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00008_00001_00017_png.rf.216c446ee02105c90d04989c85e8aec1.jpg 94,95,361,352,5
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00001_00028_00009_png.rf.d3776cc5b7ff2e6f019157bcde378ab7.jpg 108,78,344,360,7
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00014_00011_00016_png.rf.91464d6ca2f381bbaf694a9961ae72a3.jpg 53,53,363,377,14
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00002_00026_00000_png.rf.85c459184b9aee7e5a8e1822ca3b3eb4.jpg 88,83,326,340,9
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00001_00027_00011_png.rf.1ce3199512554428d486d4983f82ee4f.jpg 86,109,331,356,7
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/FisheyeCamera_1_00293_png.rf.8644ee2b61ddc208a16610100201ad01.jpg 253,208,258,221,0 185,219,188,225,1 135,223,138,228,11
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00014_00006_00013_png.rf.728ca129449d3f8bdd2e309b825551e4.jpg 63,75,366,374,14
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/road633_png.rf.282d128c502ba602126742a5064cd054.jpg 133,111,192,153,14
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/FisheyeCamera_1_00260_png.rf.b76280424b381f6ab6e4956387b074ac.jpg 312,220,314,225,13 303,184,314,188,0 277,218,279,224,0 244,223,246,227,1
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/road844_png.rf.aa227a1a4aa9e66dd6e6e67296175292.jpg 155,90,261,171,12
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/000239_jpg.rf.9c2470be6d2e5443f4db1ababb992587.jpg 103,55,331,230,8
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00003_00013_00014_png.rf.9ff8cb79d782ed1d941f680d39b47778.jpg 96,67,339,336,10
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00014_00008_00002_png.rf.459dc463661cd95d114740add230d29d.jpg 84,83,352,367,14
+/home/ace428/Soham/yolov4-pytorch/VOCdevkit/VOC2007/JPEGImages/00004_00020_00013_png.rf.51cae997b14fbcdb99df8678aa0971f2.jpg 97,96,334,337,11

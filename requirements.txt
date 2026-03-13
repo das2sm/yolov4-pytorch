@@ -11,3 +11,4 @@ tensorboard
 tensorboardx==2.6.4
 pycocotools==2.0.11
 easydict==1.13
+matplotlib==3.5.3

@@ -1,5 +1,6 @@
 # ignore map, miou, datasets
 map_out/
+map_out_final/
 miou_out/
 VOCdevkit/
 datasets/
@@ -138,3 +139,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ignore prediction tests
+/img
+/img_out
