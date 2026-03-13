@@ -23,7 +23,7 @@ if __name__ == "__main__":
     #   'predict_onnx'      Run inference using an exported ONNX model.
     #                       Relevant parameters are near line 416 in yolo.py under YOLO_ONNX.
     #----------------------------------------------------------------------------------------------------------#
-    mode = "dir_predict"
+    mode = "export_onnx"
     #-------------------------------------------------------------------------#
     #   crop        Whether to crop detected objects out of the image after prediction.
     #   count       Whether to count the number of detected objects.
